@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = pierre-louis.de-soultrait@edu.ece.fr
+	name = Pierre-Louis de Soultrait
